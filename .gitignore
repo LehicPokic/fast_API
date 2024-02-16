@@ -1,0 +1,5 @@
+venv
+1.db
+tasks.db
+.idea
+__pycache__
