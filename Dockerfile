@@ -1,6 +1,6 @@
 FROM python:3.11-slim
 
-EXPOSE 90
+EXPOSE 80:90
 
 COPY . .
 
